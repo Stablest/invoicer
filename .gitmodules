@@ -1,0 +1,6 @@
+[submodule "invoicer-front"]
+	path = invoicer-front
+	url = git@github.com:Stablest/invoicer-front.git
+[submodule "invoicer-back"]
+	path = invoicer-back
+	url = git@github.com:Stablest/invoicer-back.git

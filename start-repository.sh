@@ -1,0 +1,1 @@
+/bin/sh -ec 'git submodule init && git submodule update && cd ./invoicer-back/ && ./start.sh && cd .. & cd ./invoicer-front/ && ./start.sh'
